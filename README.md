@@ -1,5 +1,4 @@
-# AccountMigration
-Account contents moved to new GitHub Profile !
+# Account contents moved to new GitHub Profile !
 
 @AnkitJAbraham
 
